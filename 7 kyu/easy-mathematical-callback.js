@@ -18,7 +18,7 @@ var myArray = [7, 8, 9, 1, 2];
 myArray = processArray(myArray, function (a) {
   return a + 5;
 });
-will be [ 12, 13, 14, 6, 7 ].
+will be [ 12, 13, 14, 6, 7 ]. 
 */
 
 // My Solution
