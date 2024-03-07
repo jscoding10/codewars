@@ -11,6 +11,6 @@ Write a function arrowArea/arrow_area, which returns the area of the arrow, roun
 */
 
 // My Solution
-function arrowArea(a, b) {
+function arrowArea(a, b) { 
     return (a * b / 4).toFixed(2) * 1
   }
