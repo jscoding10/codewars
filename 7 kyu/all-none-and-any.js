@@ -8,4 +8,4 @@ Array.prototype.all = function (p) {
 };
   Array.prototype.any = function (p) {
     return this.filter(p).length > 0;
-};
+}; 
