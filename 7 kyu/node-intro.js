@@ -13,7 +13,7 @@ Kata
 We are going to replicate the kata Base64 Encoding, but instead of creating our own encoding / decoding functions, we will use NodeJS' Buffer module to do it for us.
 
 Create the function String.prototype.toBase64 that encodes a string in Base64. Also create the function String.prototype.fromBase64 that decodes a Base64 string into utf8.
-
+ 
 Examples
 // should return 'dGhpcyBpcyBhIHN0cmluZyEh'
 'this is a string!!'.toBase64(); 
