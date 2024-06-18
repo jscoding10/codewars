@@ -1,5 +1,5 @@
 /*
-Description:
+Description:  
 Get the next prime number!
 
 You will get a numbern (>= 0) and your task is to find the next prime number.
