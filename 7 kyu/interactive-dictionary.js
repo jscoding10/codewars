@@ -3,7 +3,7 @@
 class Dictionary {
     constructor() {
       this.dict = {};
-    }
+    } 
     
     newEntry(key, value) {
       this.dict[key] = value;
