@@ -45,4 +45,4 @@ function convert(input, source, target) {
       s = Math.floor(s / target.length);
     }  
     return str ? str : target[0];
-}
+} 
