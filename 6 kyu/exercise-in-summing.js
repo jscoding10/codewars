@@ -9,7 +9,7 @@ var values = [5, 4, 3, 2, 1];
 minimumSum(values, 2); // should return 1+2 = 3
 maximumSum(values, 3); // should return 3+4+5 = 12
 All values given to the functions will be integers. Also take care of the following special cases:
- 
+  
 if values is empty, both functions should return 0
 if n is 0, both functions should also return 0
 if n is larger than values's length, use the length instead.
