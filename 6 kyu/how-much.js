@@ -3,7 +3,7 @@ function howmuch(m, n) {
     let mymin = 0;
      let mymax = 0;
      let numcars = 0;
-     let numboats = 0;
+     let numboats = 0; 
      let result = [];
                     if (m > n) {
                         mymin = n;
