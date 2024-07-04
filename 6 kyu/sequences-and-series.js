@@ -14,7 +14,7 @@ Can you find a pattern in it? If so, then write a function getScore(n)/get_score
 int getScore(1) = return 50;
 int getScore(2) = return 150;
 int getScore(3) = return 300;
-int getScore(4) = return 500;
+int getScore(4) = return 500; 
 int getScore(5) = return 750;
 */
 
