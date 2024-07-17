@@ -7,7 +7,7 @@
 // For example, when n = 10:
 
 // The square of the sum of the numbers is:
-
+ 
 // (1 + 2 + 3 + 4 + 5 + 6 + 7 + 8 + 9 + 10)2 = 552 = 3025
 
 // The sum of the squares of the numbers is:
