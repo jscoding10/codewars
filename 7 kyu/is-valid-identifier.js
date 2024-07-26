@@ -9,7 +9,7 @@ The first character must be picked from: alpha, underscore, or dollar sign. The 
 The rest of the characters (besides the first) can be from: alpha, digit, underscore, or dollar sign. In other words, it can be any valid identifier character.
 ###Examples of valid identifiers:
 
-i
+i 
 wo_rd
 b2h
 ###Examples of invalid identifiers:
