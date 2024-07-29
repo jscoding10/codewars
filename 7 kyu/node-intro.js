@@ -3,7 +3,7 @@ Description:
 JavaScript (and CoffeeScript by extension) is a language that is heavily dependent on a run-time environment. While most people learn JS in a browser environment, there are other environemnts that run outside of a browser. Codewars runs your code in a *Node.js* environment.
 
 This kata is an attempt to introduce the NodeJS environment.
-
+ 
 Environment Differences
 The runtime environment gives your code the ability to interact with software outside of the language itself. For example, a browser environment has several built-ins that let you interact with a webpage. You can use functions like getElementById or XMLHttpRequest.
 
