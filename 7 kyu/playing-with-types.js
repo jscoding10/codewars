@@ -10,7 +10,7 @@ typing(2);    //returns number=2
 typing(true); //returns boolean=true
 */
 
-// My Solution
+// My Solution 
 function typing(param){
     if ((typeof param) === 'undefined') return `undefined`;
     if ((typeof param) === 'string') return `${typeof param}="${param}"`;
