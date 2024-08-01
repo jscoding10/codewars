@@ -3,7 +3,7 @@ const gps = (s, x) => {
 
     if (x.length <= 1) {
       return 0;
-    }
+    } 
     
     let output = [];
     for (let i = 0; i < x.length - 1; i++) { 
