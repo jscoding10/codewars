@@ -12,7 +12,7 @@ function taxCalculator(total) {
     }
     else if(total > 20 && total <= 30){
       tax = 1.7 + (total - 20) * 0.05;
-    }
+    } 
     else {
       tax = 2.2 + (total - 30) * 0.03;
     }
