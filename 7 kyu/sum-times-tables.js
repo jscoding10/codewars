@@ -9,7 +9,7 @@ For example, for sumTimesTables([2,5],1,3) the result should be the same as
 i.e. the table of two from 1 to 3 plus the table of five from 1 to 3
 
 All the numbers are integers but you must take in account:
-
+ 
 tables could be empty.
 min could be negative.
 max could be really big. 
