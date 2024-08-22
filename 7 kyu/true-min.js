@@ -4,4 +4,4 @@ function min(a, b){
     b === null && (b = 0);
     if (isNaN(a) || isNaN(b)) { return NaN; }
     return (a < b) ? a : b;
-  } 
+  }  
