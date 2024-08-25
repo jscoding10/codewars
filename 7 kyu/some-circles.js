@@ -8,7 +8,7 @@ You don't know how many circles you will be given, but you can assume it will be
 
 So:
 
-sumCircles(2) == "We have this much circle: 3"
+sumCircles(2) == "Have this much circle: 3"
 sumCircles(2, 3, 4) == "We have this much circle: 23"
 Translations and comments (and upvotes!) welcome!
 */
