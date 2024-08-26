@@ -38,7 +38,7 @@ var sumAndMultiply = function(sum, multiply) {
     for (let i = 0; i <= sum; i++){
       for (let j = 0; j <= i; j++){
         if (i + j === sum && i * j === multiply)
-          return [j, i]
+          return [j, i] 
        }
      }
      return null
