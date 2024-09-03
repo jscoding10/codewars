@@ -7,6 +7,6 @@ function squares(x, n) {
          arr.push(Math.pow(arr[i], 2))
          }
          
-       return arr; 
+       return arr;  
 }
     
