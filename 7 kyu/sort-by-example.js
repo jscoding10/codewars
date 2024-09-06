@@ -14,5 +14,5 @@ Result: [4,4,4,4,1,3,5]
 
 // My Solution
 function exampleSort(arr,exampleArr){
-    return arr.sort((x, y) => exampleArr.indexOf(x) - exampleArr.indexOf(y));
+    return arr.sort((x, y) => exampleArr.indexOf(x) - exampleArr.indexOf(y)); 
 }
