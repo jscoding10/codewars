@@ -1,5 +1,5 @@
 /*
-Description:
+Description: 
 A new school year is approaching, which also means students will be taking tests.
 
 The tests in this kata are to be graded in different ways. A certain number of points will be given for each correct answer and a certain number of points will be deducted for each incorrect answer. For ommitted answers, points will either be awarded, deducted, or no points will be given at all.
@@ -25,5 +25,5 @@ Note: Don't worry, the parameters will always be as they should be (an array and
 
 // My Solution
 function scoreTest(str, right, omit, wrong){
-    return str.map(v => v===0 ? right : v===1 ? omit : -wrong).reduce((a, b )=> a + b,0)
+    return str.map(v => v === 0 ? right : v === 1 ? omit : -wrong).reduce((a, b )=> a + b, 0)
   }
