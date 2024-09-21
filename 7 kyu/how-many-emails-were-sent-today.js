@@ -20,7 +20,7 @@ the argument ```$sent >= $limit```, then return the message: "Daily limit is rea
 the argument ```$limit is empty```, then default ```$limit = 1000``` emails;
 Good luck!
 */
-
+ 
 // My Solution
 function getPercentage(sent, limit){
     if (limit === undefined){
