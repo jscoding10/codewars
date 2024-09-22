@@ -23,7 +23,7 @@ Good luck!
  
 // My Solution
 function getPercentage(sent, limit){
-    if (limit === undefined){
+    if (limit === undefined){ 
     limit = 1000
     }
     const procent = Math.floor(sent / limit * 100)
