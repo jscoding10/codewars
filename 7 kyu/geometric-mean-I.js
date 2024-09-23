@@ -9,7 +9,7 @@ The negative values and strings will be discarded for the calculations.
 
 Nevertheless if the amount of total invalid values is too high, the function will return 0 (Nothing in Haskell). The tolerance for invalid values of the variable will be as follows:
 
-amount of entries      maximum invalid entries
+amount of entries      maximum invalid entries 
   2 - 10                       1
   From 11 and above       10 % of total of entries
 You do not have to round the results.
