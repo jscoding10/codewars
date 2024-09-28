@@ -5,7 +5,7 @@ A function that receives a (square) matrix and calculates the sum of both diagon
 Matrix = array of n length whose elements are n length arrays of integers.
 
 3x3 example: 
- 
+  
 diagonals( [
   [ 1, 2, 3 ],
   [ 4, 5, 6 ],
