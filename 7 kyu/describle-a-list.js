@@ -2,7 +2,7 @@
 Description:
 Write function describeList which tells if the list is empty or contains only one element or more.
 */
-
+ 
 // My Solution
 function describeList(x) {
     if (x.length === 0) return 'empty';
