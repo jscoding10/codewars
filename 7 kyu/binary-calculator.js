@@ -3,7 +3,7 @@
 
 // Your task is to write the calculate function so that it will perform the arithmetic and the result returned should be a string representing the binary result.
 
-// Examples: 
+// Examples:  
 
 // 1 + 1 === 10
 // 10 + 10 === 100
