@@ -4,4 +4,4 @@ function toInteger(n) {
     n = Math.trunc(n)
     if (!Number.isFinite(n)) return 0
     return n   
-}
+} 
