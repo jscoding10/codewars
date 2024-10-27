@@ -6,7 +6,7 @@ Check that the two provided arrays both contain the same number of different uni
 Both arrays have four of one item and two of another, so balance should return true.
 
 #Have fun!
-*/
+*/ 
 
 
 // My Solution
