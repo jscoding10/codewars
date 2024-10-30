@@ -43,6 +43,6 @@ function convert(input, source, target) {
     while (s > 0) {
       str = target[s%target.length] + str;
       s = Math.floor(s / target.length);
-    }  
+    }   
     return str ? str : target[0];
 } 
