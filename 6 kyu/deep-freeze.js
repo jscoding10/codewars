@@ -10,7 +10,7 @@ The freeze operation should prevent objects from being modified.
 // My Solution
 Object.deepFreeze = function (object) {
     Object.freeze(object)
-    for (let i in object){
+    for (let i in object){ 
       Object.deepFreeze(object[i])
     }
 }
