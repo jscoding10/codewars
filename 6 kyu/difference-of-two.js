@@ -7,5 +7,5 @@ function twosDifference(input){
         if (Math.abs(input[i] - input[j]) === 2){arr.push([input[i], input[j]]); break}
       }
     }  
-    return arr 
+    return arr  
 }
