@@ -7,5 +7,5 @@ function range(start = 0, end, step = 1) {
       range.push(start)
       start += step;
     }
-    return range; 
+    return range;  
 } 
