@@ -1,5 +1,5 @@
 /*
-Description: 
+Description:  
 Your task is to finish two functions, minimumSum and maximumSum, that take 2 parameters:
 
 values: an array of integers with an arbitrary length; may be positive and negative
