@@ -8,7 +8,7 @@ function step(g, m, n){
 function isPrime(n) {
   let rt = Math.sqrt(n);
   for(let i = 2; i <= rt; i++) {
-    if(n % i === 0) return false; 
+    if(n % i === 0) return false;  
   }
   return n !== 1;
 }  
