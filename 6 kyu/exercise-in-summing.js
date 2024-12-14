@@ -24,4 +24,4 @@ function minimumSum(values, n) {
   function maximumSum(values, n) {
     values=values.sort((a,b)=>b-a);
     return values.slice(0,n).reduce((a,b)=>a+b,0)
-}
+} 
