@@ -13,4 +13,4 @@ var typer = (function(TO_BE_DEFINED_BY_YOU) {
       isNull: (TO_BE_DEFINED_BY_YOU)=> TO_BE_DEFINED_BY_YOU ===null,
       isUndefined: (TO_BE_DEFINED_BY_YOU)=> TO_BE_DEFINED_BY_YOU ===undefined
     };
-  }(null)); 
+  }(null));  
