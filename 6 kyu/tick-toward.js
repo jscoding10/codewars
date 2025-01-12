@@ -15,7 +15,7 @@ function tickToward([s1, s2], [e1, e2]){
       if (e2 < s2){
       for (let i = s2; i >= e2; i--){
         arr2.push(i)
-      }
+      } 
     } else {
       for (let i = s2; i <= e2; i++){
         arr2.push(i)
@@ -27,4 +27,4 @@ function tickToward([s1, s2], [e1, e2]){
       arr3.push([(arr1[i] ? arr1[i] : arr1[i] === 0 ? 0 : arr1[arr1.length-1]),(arr2[i] ? arr2[i] : arr2[i] === 0 ? 0 : arr2[arr2.length-1])])
     }
     return arr3
-  }
+  } 
