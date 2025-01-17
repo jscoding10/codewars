@@ -6,4 +6,4 @@ function findOdd(A) {
       count[v] = count[v] ? count[v] + 1 : 1;
     });
     return + Object.keys(count).find(key => count[key] % 2 === 1);
-}
+} 
