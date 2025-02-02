@@ -9,4 +9,4 @@ function atomicNumber(num){
     }
     arr[arr.length - 1] += num
     return arr
-}  
+}   
