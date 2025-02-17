@@ -11,4 +11,4 @@ function minimumNumber(numbers){
       if(n % i === 0) return false; 
     }
     return n !== 1;
-  } 
+  }  
