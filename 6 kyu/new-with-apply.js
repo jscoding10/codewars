@@ -1,4 +1,4 @@
 // My Solution
-function construct(Class,...args) {
-    return new Class(...args)
-  }                                              
+function construct(Class, ...args) {
+  return new Class(...args)
+}                                                
